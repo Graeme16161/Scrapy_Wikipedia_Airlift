@@ -11,4 +11,10 @@ import scrapy
 class AirliftItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    model = scrapy.Field()
+    country = scrapy.Field()
+    aircraft_class = scrapy.Field()
+    date = scrapy.Field()
+    payload_t = scrapy.Field()
+    range_km = scrapy.Field()
+    
