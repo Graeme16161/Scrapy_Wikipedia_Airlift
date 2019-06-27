@@ -1,0 +1,137 @@
+aircraft_class,country,date,model,payload_t,range_km
+,,,,,
+Propeller,Italy,1978,Aeritalia G.222,9,"1,371"
+Rotorcraft,France,1966,Aérospatiale SA 321 Super Frelon,5,"1,020"
+Rotorcraft,France,1968,Aérospatiale SA 330 Puma,,580
+Rotorcraft,Italy,1976,AgustaWestland AW109,,920
+Rotorcraft,Italy,1999,AgustaWestland AW101,8.5,833
+Rotorcraft,Italy,2003,AgustaWestland AW139,,"1,250"
+Rotorcraft,Italy,2003,AgustaWestland AW149,,800
+Rotorcraft,Italy,2014,AgustaWestland AW159 Wildcat,1.5,777
+Rotorcraft,Italy,2000,AgustaWestland CH-149 Cormorant,8.5,833
+Jet,Spain,2003,Airbus A310 MRTT,36,"6,500"
+Jet,Spain,2007,Airbus A330 MRTT,45,"14,800"
+Propeller,Spain,2009,Airbus A400M,37,"9,300"
+Propeller,Italy,2008,Alenia C-27J Spartan,11.5,"5,926"
+Propeller,Ukraine,1958,Antonov An-8,11,"2,780"
+Propeller,Ukraine,1959,Antonov An-12,20,"5,700"
+Propeller,Ukraine,1966,Antonov An-14,7,650
+Propeller,Ukraine,1965,Antonov An-22,80,"5,000"
+Propeller,Ukraine,1969,Antonov An-26,5.5,"2,550"
+Propeller,Ukraine,1986,Antonov An-28,2.5,"1,500"
+Propeller,Ukraine,1976,Antonov An-32,6.7,"2,500"
+Propeller,Ukraine,1977,Antonov An-72,7.5,"4,800"
+Propeller,Ukraine,1982,Antonov An-124 Ruslan,150,"5,410"
+Jet,Ukraine,1994,Antonov An-70,47,"6,600"
+Jet,Ukraine,2015,Antonov An-178,18,"5,500"
+Propeller,Ukraine,2016,Antonov/Taqnia An-132,9.2,"4,400"
+Propeller,UK,1960,Armstrong Whitworth AW.660 Argosy,13,"5,552"
+Rotorcraft,South Africa,1987,Atlas Oryx,,303
+Propeller,UK,1944,Avro York,9.1,"4,800"
+Propeller,US,1974,Beechcraft C-12 Huron,2,"3,185"
+Rotorcraft,US,1959,Bell UH-1 Iroquois,1.7,507
+Rotorcraft,US,1970,Bell UH-1N Twin Huey,,460
+Rotorcraft,US,2008,Bell UH-1Y Venom,3,
+Rotorcraft,US,1989,Bell Boeing V-22 Osprey,6.8,"1,627"
+Propeller,UK,1955,Blackburn Beverley,20,2000
+Propeller,US,1942,Boeing 247,,"1,200"
+Propeller,US,1943,Boeing C-108 Flying Fortress,5,"3,219"
+Propeller,US,1951,Boeing C-97 Stratofreighter,9.1,"6,920"
+Jet,US,1976,Boeing YC-14,31.4,"5,136"
+Jet,US,1991,Boeing C-17 Globemaster III,77.5,"10,390"
+Jet,US,2001,Boeing C-40 Clipper,18,"5,600"
+Jet,US,2005,Boeing KC-767,29.5,"11,830"
+Jet,US,2013,Boeing KC-46 Pegasus,29.5,"11,830"
+Rotorcraft,US,1964,Boeing Vertol CH-46 Sea Knight,2.2,"1,020"
+Rotorcraft,US,1962,Boeing Vertol CH-47 Chinook,11,370
+Propeller,UK,1965,Britten-Norman BN-2 Islander,2,"1,400"
+Propeller,Canada,1946,Canadair North Star,5,"6,212"
+Propeller,Canada,1960,Canadair CL-44,,"8,990"
+Propeller,Canada,1960,Canadair CC-109 Cosmopolitan,6.4,"3,660"
+Propeller,Spain,1971,CASA C-212 Aviocar,2.8,"1,433"
+Propeller,Spain,1983,CASA CN-235,5,"5,003"
+Rotorcraft,China,1994,Changhe Z-8,5,"1,020"
+Rotorcraft,China,2014,Changhe Z-18,5,"1,020"
+Propeller,US,1942,Consolidated C-87 Liberator Express,4.5,"5,311"
+Propeller,US,1944,Consolidated R2Y,5.5,"6,400"
+Propeller,US,1949,Convair XC-99,45,"13,041"
+Propeller,US,1950,Convair C-131 Samaritan,,750
+Propeller,US,1941,Curtiss C-46 Commando,6.8,"5,069"
+Propeller,Canada,1958,de Havilland Canada DHC-4 Caribou,3.6,"2,103"
+Propeller,Canada,1965,de Havilland Canada DHC-5 Buffalo,8.2,"1,112"
+Propeller,Canada,1966,de Havilland Canada DHC-6 Twin Otter,,"1,434"
+Propeller,US,1937,Douglas DC-2,,"1,750"
+Propeller,US,1941,Douglas C-47 Skytrain,3,"2,600"
+Propeller,US,1942,Douglas C-54 Skymaster,,"6,400"
+Propeller,US,1945,Douglas C-74 Globemaster,22,"5,470"
+Propeller,US,1951,Douglas C-47 Skytrain,3,"2,600"
+Propeller,US,1947,Douglas C-118 Liftmaster,12.7,"6,700"
+Propeller,US,1950,Douglas C-124 Globemaster II,,"10,975"
+Propeller,US,1956,Douglas C-133 Cargomaster,53.5,"6,590"
+Propeller,Spain,1998,EADS CASA C-295,9.3,"5,400"
+Jet,Brazil,2014,Embraer KC-390,23,"6,200"
+Rotorcraft,France,1978,Eurocopter AS365 Dauphin,1.5,572
+Rotorcraft,France,1978,Eurocopter AS532 Cougar,1.5,572
+Rotorcraft,France,1986,Eurocopter AS565 Panther,2,572
+Rotorcraft,France,2004,Eurocopter EC225 Super Puma,5.5,857
+Rotorcraft,France,2005,Eurocopter EC725,5.5,857
+Propeller,US,1944,Fairchild C-82 Packet,12.5,"6,239"
+Propeller,US,1949,Fairchild C-119 Flying Boxcar,12.5,"2,849"
+Propeller,Germany,1937,Focke-Wulf Fw 200 Condor,,"3,560"
+Propeller,Netherlands,1958,Fokker F27 Friendship,,"2,055"
+Propeller,Netherlands,1985,Fokker 50,,"1,666"
+Propeller,US,1952,Grumman C-1 Trader,1.6,"2,092"
+Propeller,US,1964,Grumman C-2 Greyhound,4.5,"2,400"
+Propeller,UK,1948,Handley Page Hastings,9,"2,720"
+Propeller,China,1983,Harbin Y-12,,"1,340"
+Rotorcraft,China,1994,Harbin Z-9,1.5,572
+Rotorcraft,Romania,1975,IAR 330,,572
+Propeller,Russia,1946,Ilyushin Il-12,,"1,500"
+Propeller,Russia,1954,Ilyushin Il-14,,"1,300"
+Jet,Russia,1971,Ilyushin Il-76,47,"4,400"
+Propeller,Russia,2011,Ilyushin Il-112,5.9,"5,000"
+Jet,Russia,2025 (planned),Ilyushin Il-276,20,"2,000"
+Propeller,Germany,1930,Junkers Ju 52,2,800
+Propeller,Germany,1938,Junkers Ju 89,1.5,"2,980"
+Propeller,Germany,1937,Junkers Ju 90,,"1,247"
+Propeller,Germany,1942,Junkers Ju 290,3,"6,150"
+Propeller,Germany,1943,Junkers Ju 390,,"9,700"
+Propeller,Japan,1940,Kawasaki Ki-56,,"3,300"
+Jet,Japan,1970,Kawasaki C-1,11.9,"1,300"
+Jet,Japan,2010,Kawasaki C-2,37.6,"6,500"
+Propeller,USSR,1939,Lisunov Li-2,3,"2,600"
+Propeller,US,1940,Lockheed Model 18 Lodestar,,"4,025"
+Propeller,US,1943,Lockheed C-69 Constellation,,"3,900"
+Propeller,US,1948,Lockheed C-121 Constellation,,"4,445"
+Propeller,US,1946 (prototype only),Lockheed R6V Constitution,,"8,670"
+Propeller,US,1954,Lockheed C-130 Hercules,20.4,"3,800"
+Jet,US,1963,Lockheed C-141 Starlifter,28.4,"9,880"
+Jet,US,1968,Lockheed C-5 Galaxy,122,"4,445"
+Jet,US,1984,Lockheed TriStar (RAF),,"7,785"
+Propeller,US,1996,Lockheed Martin C-130J Super Hercules,19-20,"3,334"
+Jet,US,1968,McDonnell Douglas C-9,,"4,700"
+Jet,US,1975,McDonnell Douglas YC-15,35,"4,810"
+Jet,US,1980,McDonnell Douglas KC-10 Extender,77,"18,507"
+Propeller,Germany,1943,Messerschmitt Me 323,10,800
+Rotorcraft,Russia,1967,Mil Mi-8,4,610
+Rotorcraft,Russia,1977,Mil Mi-17,4,610
+Rotorcraft,Russia,1977,Mil Mi-26,20,800
+Propeller,Japan,1942,Mitsubishi Ki-57,,"3,000"
+Propeller,Japan,1937,Nakajima Ki-34,,"1,200"
+Rotorcraft,,2007,NHIndustries NH90,2.5,800
+Propeller,Poland,1993,PZL M-28 Skytruck,2.5,"1,500"
+Propeller,France,1953,Nord Noratlas,12.5,"2,500"
+Propeller,Italy,1935,Savoia-Marchetti SM.81,2,"1,500"
+Propeller,China,1974,Shaanxi Y-8,20,"5,616"
+Propeller,China,2008,Shaanxi Y-9,25,"7,800"
+Propeller,UK,1964,Short Belfast,55,"8,528"
+Propeller,UK,1963,Short Skyvan,5,1117
+Propeller,UK,1982,Short C-23 Sherpa,3.2,"1,239"
+Propeller,Japan,1939,Showa/Nakajima L2D,3,"2,600"
+Rotorcraft,US,1966,Sikorsky CH-53 Sea Stallion,3.6,"1,000"
+Rotorcraft,US,1962,Sikorsky CH-54 Tarhe,9.1,370
+Rotorcraft,US,1979,Sikorsky UH-60 Black Hawk,4,590
+Propeller,France,1963,Transall C-160,16,"8,230"
+Propeller,UK,1948,Vickers Valetta,3,"2,350"
+Rotorcraft,Italy,1978,Westland Lynx,1.5,528
+Jet,China,2013,Xian Y-20,66,"7,800"

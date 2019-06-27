@@ -6,7 +6,7 @@ Created on Wed Jun 26 19:51:11 2019
 """
 
 from scrapy import Spider
-from Airlift.item import AirliftItem
+from Airlift.items import AirliftItem
 
 class AirliftSpider(Spider):
     
@@ -38,13 +38,13 @@ class AirliftSpider(Spider):
             range_km = row.xpath('./td[7]/text()').extract_first()
             
             item = AirliftItem()
-			item['model'] = model
-			item['country'] = country
-			item['aircraft_class'] = aircraft_class
-			item['date'] = date
+            item['model'] = model
+            item['country'] = country
+            item['aircraft_class'] = aircraft_class
+            item['date'] = date
             item['payload_t'] = payload_t
             item['range_km'] = range_km
-			yield item
+            yield item
         
     
     
