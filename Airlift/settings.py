@@ -14,6 +14,7 @@ BOT_NAME = 'Airlift'
 SPIDER_MODULES = ['Airlift.spiders']
 NEWSPIDER_MODULE = 'Airlift.spiders'
 
+ITEM_PIPELINES = {'Airlift.pipelines.WriteItemPipeline': 200}
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'Airlift (+http://www.yourdomain.com)'
